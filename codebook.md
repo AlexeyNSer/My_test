@@ -1,7 +1,7 @@
 Identifiers
 
-    subject - the ID of the subject
-    activity - the name of the activity performed by the subject when measurements were taken
+    subject - ID of subject
+    activity - name of the activity 
 
 Measurements 
 
