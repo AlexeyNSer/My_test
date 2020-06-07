@@ -3,7 +3,9 @@ Identifiers
     subject - the ID of the subject
     activity - the name of the activity performed by the subject when measurements were taken
 
-Measurements "TimeBodyAcceleratorMeanX"
+Measurements 
+
+"TimeBodyAcceleratorMeanX"
 "TimeBodyAcceleratorMeanY"
 "TimeBodyAcceleratorMeanZ"
 "TimeBodyAcceleratorStdX"
@@ -51,9 +53,3 @@ Activity labels:
     Walking downstairs
     Sitting
     Standing
-
-    © 2020 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
